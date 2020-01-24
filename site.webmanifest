@@ -1,0 +1,14 @@
+{
+  "short_name": "Adrien",
+  "name": "M",
+  "icons": [
+    {
+      "src": "technologist.png",
+      "type": "image/png",
+      "sizes": "160x160"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fff",
+  "theme_color": "#ffc600"
+}
